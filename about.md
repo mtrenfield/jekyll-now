@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a graduate student in molecular biophysics at the [UT-Southwestern Medical Center].
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
+I like hearing from people.
 [email@domain.com](mailto:email@domain.com)
